@@ -1,0 +1,33 @@
+body{
+    font-family:'Almarai', sans-serif;
+    background-color: aliceblue;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+h3{
+    margin-right: 3%;
+}
+
+#cityDiv{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+
+}
+
+input[type='text']{
+    height: 40px;
+    font-weight: bold;
+}
+
+#submitCity{
+    height: 40px;
+    font-weight: bold;
+}
+
+#errorCity{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
